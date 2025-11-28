@@ -1,16 +1,35 @@
-# local_treat
+# 🌾 LocalTreat — Flutter App  
+A collaborative university project showcasing a mobile platform where users can browse and purchase authentic local foods from various regions. The application is built using **Flutter** and focuses on delivering a clean and simple UI experience.
 
-A new Flutter project.
+---
 
-## Getting Started
+## 👥 Team Project  
+1. Calvin Christian Ho
+2. Marvin Luckianto
+3. Michael Valentino W
+4. Ishvara Pranidhana Lakshmana
+5. Nathanael Orvalo Rosandi
 
-This project is a starting point for a Flutter application.
+### My Role (Frontend Developer)
+- Implemented UI screens using **Flutter**
+- Built the navigation structure and main layouts
+- Integrated basic state handling for core pages
+- Designed and developed front–facing components based on team requirements
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📱 About the App  
+LocalTreat aims to provide an easy way for users to explore traditional foods from different local regions.  
+Users can:
+- View available local dishes  
+- Explore details and descriptions  
+- Navigate through basic app sections  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+> Note: Some parts of the application were prepared for demonstration and concept validation. Certain features remain in progress as this project was completed within limited scope and class constraints.
+
+---
+
+## 🛠️ Tech Stack  
+- **Flutter** (UI & logic)  
+- **Dart**  
+- Standard Flutter widget library
